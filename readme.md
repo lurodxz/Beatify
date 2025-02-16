@@ -8,6 +8,7 @@ Beatify is a music web app with multi-device support, including Windows, MacOS, 
 - Typescript (There's not much to say, better optimization, and more functions.)
 - Spotify Web API
 - Node.js
+- React
 - Electron.js
 - Capacitor.js
 - Git integration (basic)
