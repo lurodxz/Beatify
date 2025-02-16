@@ -1,4 +1,4 @@
-![Beatify Logo](https://github.com/lurodxz/Beatify/blob/main/readme/header.png?raw=true)
+[![Beatify Logo](https://github.com/lurodxz/Beatify/blob/main/readme/header.png?raw=true)](https://lurodxz.github.io/beatify)
 Welcome to Beatify Project! A music web-app that works with Spotify API.
 
 ## 📜 About the project
@@ -15,5 +15,5 @@ Beatify is a music web app with multi-device support, including Windows, MacOS, 
 |Android|❌ No Tested|
 |iOS|❌ No Tested|
 ## 🛠️ Troubleshooting/support
-We will open a help channel at [lurodxz.github.io/beatify/support](lurodxz.github.io/beatify/support)]  for effective troubleshooting.
+We will open a help channel at [lurodxz.github.io/beatify/support](https://lurodxz.github.io/beatify/support)  for effective troubleshooting.
 
