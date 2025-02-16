@@ -1,0 +1,33 @@
+{
+  "name": "beatify",
+  "version": "1.0.0",
+  "description": "A music web-app based in Spotify API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lurodxz/Beatify.githttps:.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lurodxz/Beatify.githttps:/issues"
+  },
+  "homepage": "https://github.com/lurodxz/Beatify.githttps:#readme",
+  "dependencies": {
+    "next": "^15.1.7",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.13.4",
+    "@types/react": "19.0.9",
+    "typescript": "5.7.3"
+  }
+}
