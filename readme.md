@@ -15,5 +15,5 @@ Beatify is a music web app with multi-device support, including Windows, MacOS, 
 |Android|❌ No Tested|
 |iOS|❌ No Tested|
 ## 🛠️ Troubleshooting/support
-We will open a help channel at lurodxz.github.io/beatify/support  for effective troubleshooting.
+We will open a help channel at [lurodxz.github.io/beatify/support](lurodxz.github.io/beatify/support)  for effective troubleshooting.
 
