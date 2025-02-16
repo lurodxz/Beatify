@@ -6,14 +6,14 @@ Beatify is a music web app with multi-device support, including Windows, MacOS, 
 ## ⚙️ Beatify supported devices
 |Device|Version Supported|Download|
 |--|--|--|
-|Chrome|❌ No Tested|
-|Safari|❌ No Tested|
-|Opera/GX|❌ No Tested|
-|Windows|❌ No Tested|
-|MacOS|❌ No Tested|
-|Linux|❌ No Tested|
-|Android|❌ No Tested|
-|iOS|❌ No Tested|
+|Chrome|💼 Working|
+|Safari|💼 Working|
+|Opera/GX|💼 Working|
+|Windows|❌ No Support|
+|MacOS|❌ No Support|
+|Linux|❌ No Support|
+|Android|❌ No Support|
+|iOS|❌ No Support|
 ## 🛠️ Troubleshooting/support
 We will open a help channel at [lurodxz.github.io/beatify/support](https://lurodxz.github.io/Beatify/support)  for effective troubleshooting.
 
