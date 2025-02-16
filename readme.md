@@ -2,8 +2,8 @@
 Welcome to Beatify Project! A music web-app that works with Spotify API.
 
 ## Beatify supported devices
-|Device|Version Supported|Download|
-|--|--|--|
+|Device|Version Supported|
+|--|--|
 |Chrome|❌ No Tested|
 |Safari|❌ No Tested|
 |Opera/GX|❌ No Tested|
